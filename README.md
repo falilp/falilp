@@ -54,5 +54,12 @@
     <a href="mailto:rafaellealpardo@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail%20-red.svg?style=for-the-badge&logo=gmail&logoColor=white" height="30"/></a>
     <a href="https://www.linkedin.com/in/rafaellealpardo/" target="blank"><img src="https://img.shields.io/badge/Linkedin%20-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/></a>
 </details>
+<br>
+<p><img align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=falilp&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    alt="falilp" 
+    bg_color=#808080/></p>
+
+<br>
 <br><br>
 Last Edited on: 17/02/2024
