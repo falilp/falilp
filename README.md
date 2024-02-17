@@ -39,3 +39,5 @@
     <a href="mailto:rafaellealpardo@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail%20-red.svg?style=for-the-badge&logo=gmail&logoColor=white" height="30"/></a>
     <a href="https://www.linkedin.com/in/rafaellealpardo/" target="blank"><img src="https://img.shields.io/badge/Linkedin%20-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/></a>
 </details>
+-----
+Last Edited on: 17/02/2024
