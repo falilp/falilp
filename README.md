@@ -32,6 +32,21 @@
     <img src="https://img.shields.io/badge/Kubernetes%20-215DA0.svg?style=for-the-badge&logo=kubernetes&logoColor=white" height="30"/>
   </p>
   <br>
+  <p align="center">
+    <h3>Software and Tools</h3>
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" height="30"/>
+    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="30"/>
+    <img src="https://img.shields.io/badge/Windows-blue?style=for-the-badge&logo=windows&logoColor=black" height="30"/>
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="30"/>
+  </p>
+  <br>
+  <p align="center">
+    <h3>Extras</h3>
+    <img src="https://img.shields.io/badge/Latex-117A65.svg?style=for-the-badge&logo=latex&logoColor=white" height="30"/>
+    <img src="https://img.shields.io/badge/Overleaf-32C75B.svg?style=for-the-badge&logo=Overleaf&logoColor=white" height="30"/>
+    <img src="https://img.shields.io/badge/Markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" height="30"/>
+  </p>
+  <br>
 </details>
 <details>
   <summary>📞 Contact me</summary>
