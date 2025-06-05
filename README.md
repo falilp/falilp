@@ -1,7 +1,7 @@
 
 # Hey, i`m Rafael!!
 
-- I`m a Computer Engineer from Cádiz, Spain
+- I`m a Software Engineer from Cádiz, Spain
 - Currently software engineer in Ayesa
 - Contact me:
 
